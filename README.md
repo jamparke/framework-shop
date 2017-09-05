@@ -1,5 +1,7 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
+Initial 
+
 # Project Summary
 
 <img src="https://github.com/DevMountain/framework-shop/blob/master/readme-assets/landing.png" />
